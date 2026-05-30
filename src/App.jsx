@@ -9,6 +9,7 @@ import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Stack from "./components/Stack";
 import Work from "./components/Work";
+import Contact from "./components/Contact";
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
         <Experience />
         <Services />
         <Stack />
+        <Contact />
         <Footer />
         <Credits />
       </section>

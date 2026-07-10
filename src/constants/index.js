@@ -63,6 +63,7 @@ import {
   siVercel,
   siVitest,
   siNetlify,
+  siConvex,
 } from "simple-icons";
 
 export const links = [
@@ -490,6 +491,13 @@ export const stackItems = [
     type: "simple-icons",
     icon: siFirebase,
     url: "https://firebase.google.com",
+  },
+
+  {
+    name: "Convex",
+    type: "simple-icons",
+    icon: siConvex,
+    url: "https://www.convex.dev",
   },
 
   // API / Data fetching

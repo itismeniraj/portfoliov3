@@ -1,3 +1,4 @@
+import scoprireImage from "../assets/scoprire.png";
 import recipiaImage from "../assets/recipia.png";
 import mindwaveImage from "../assets/mindwave.png";
 import newsImage from "../assets/news.png";
@@ -92,6 +93,14 @@ export const links = [
 ];
 
 export const works = [
+   {
+    name: "Scoprire",
+    category: "API Driven",
+    year: "2026",
+    url: "https://scoprire.vernelon.com/",
+    image: scoprireImage,
+  },
+  
   {
     name: "Recipia",
     category: "API Driven",

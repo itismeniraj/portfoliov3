@@ -619,9 +619,16 @@ export const stackItems = [
 
 export const experience = [
   {
+    company: "Reachnova Consultancy & Tech Solution Pvt. Ltd.",
+    role: "Front-End Developer",
+    duration: "2026 - Present",
+    detail:
+      "Currently holding a full time job, creating industry based web apps",
+  },
+  {
     company: "Depth Nepal Pvt. Ltd.",
     role: "Front-End Developer",
-    duration: "2025 - Present",
+    duration: "2025 - 2026",
     detail:
       "Contributed to the frontend development of restaurant and property management SaaS platforms using React, TypeScript, and Next.js.",
   },

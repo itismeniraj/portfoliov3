@@ -1,4 +1,4 @@
-import reachnovaCommentsImage, form "../assets/reachnova-comments.png"
+import reachnovaCommentsImage, from "../assets/reachnova-comments.png"
 import scoprireImage from "../assets/scoprire.png";
 import recipiaImage from "../assets/recipia.png";
 import mindwaveImage from "../assets/mindwave.png";

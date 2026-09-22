@@ -1,3 +1,4 @@
+import reachnovaCommentsImage, form "../assets/reachnova-comments.png"
 import scoprireImage from "../assets/scoprire.png";
 import recipiaImage from "../assets/recipia.png";
 import mindwaveImage from "../assets/mindwave.png";
@@ -93,6 +94,13 @@ export const links = [
 ];
 
 export const works = [
+    {
+    name: "Reachnova Comments",
+    category: "Full Stack",
+    year: "2026",
+    url: "https://developmentreachnovacomments.vercel.app/",
+    image: reachnovaCommentsImage,
+  },
    {
     name: "Scoprire",
     category: "API Driven",
